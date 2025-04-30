@@ -1,4 +1,4 @@
-![Profile Banner](https://radzzoffc.site/uploads/RadzzOffcSite_276.jpg)
+![Profile Banner](https://files.catbox.moe/9ti5z9.jpg)
 
 # Hello 👋🏻, I'am ArixOfficial
 
