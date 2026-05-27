@@ -3,8 +3,8 @@
 # Hello 👋🏻, I'am ArixOfficial
 ### I am a frontend and backend developer from Indonesia.
 
-- 🔭 I'm currently working on [Pterodactyle Installer](https://github.com/ArixOffc/bahancptero)
-- 🌱 I'm currently learning Node.js
+- 🔭 I'm currently Learing new program
+- 🌱 I'm currently learning Node.js/Java/Python
 - 💬 Ask me about Web Development, Script Development
 - 📫 How to reach me: arixxoffc@gmail.com
 - 👨‍💻 All of my projects are available at [Portfolio](https://arixoffc.com)
